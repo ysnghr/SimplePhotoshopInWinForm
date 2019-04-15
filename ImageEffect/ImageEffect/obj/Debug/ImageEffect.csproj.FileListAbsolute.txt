@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\ImageEffect\ImageEffect\bin\Debug\ImageEffect.exe.config
+C:\Users\Acer\source\repos\ImageEffect\ImageEffect\bin\Debug\ImageEffect.exe
+C:\Users\Acer\source\repos\ImageEffect\ImageEffect\bin\Debug\ImageEffect.pdb
+C:\Users\Acer\source\repos\ImageEffect\ImageEffect\obj\Debug\ImageEffect.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ImageEffect\ImageEffect\obj\Debug\ImageEffect.Form1.resources
+C:\Users\Acer\source\repos\ImageEffect\ImageEffect\obj\Debug\ImageEffect.Properties.Resources.resources
+C:\Users\Acer\source\repos\ImageEffect\ImageEffect\obj\Debug\ImageEffect.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\ImageEffect\ImageEffect\obj\Debug\ImageEffect.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ImageEffect\ImageEffect\obj\Debug\ImageEffect.exe
+C:\Users\Acer\source\repos\ImageEffect\ImageEffect\obj\Debug\ImageEffect.pdb
